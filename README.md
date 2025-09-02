@@ -31,24 +31,6 @@ PyPDF2 / pdfplumber – PDF text extraction
 
 Gradio – Interactive web interface
 
-🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/yourusername/pdf-qna-rag.git
-cd pdf-qna-rag
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run the application
-python app.py
-
-
-Upload a PDF or multiple PDFs.
-
-Ask your questions in the input box and get answers in seconds.
-
-
-(Include a screenshot or GIF showing the UI and a Q&A example.)
 
 💡 How it Works
 
